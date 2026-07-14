@@ -1,4 +1,4 @@
-# 🛡️ Snort IDS/IPS Lab
+# 🛡️ Snort-SOC-Monitoring-Lab (IDS/IPS)
 
 ## 📌 Overview
 
@@ -98,11 +98,3 @@ snort-ids-project/
 ## 🚀 Conclusion
 
 Snort is a powerful tool for network security. In this project, it was successfully implemented as an IDS to detect network threats. Additionally, its IPS capability was explored, showing that Snort can also prevent attacks when configured in inline mode.
-
----
-
-## 👤 Author
-
-* Kiran Karenavar
-
----
